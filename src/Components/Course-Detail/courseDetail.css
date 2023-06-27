@@ -1,0 +1,15 @@
+.course-detail{
+    margin-top: 100px;
+}
+.title{
+    text-align: center;
+    font-size: 50px;
+    background-color: gray;
+    color: white;
+    height: 100px;
+    padding-top: 15px;
+    border-radius: 100px;
+}
+.detail{
+    margin-top: 50px;
+}

@@ -1,0 +1,39 @@
+.footer{
+    margin-top: 60px;
+    background-color: rgb(63, 56, 56);
+}
+.left{
+    border-right: 2px solid goldenrod;
+}
+
+.information{
+    color: white;
+    margin-left: 10px;
+    
+}
+.information h5 {
+    border-bottom: 3px solid goldenrod;
+}
+.information2{
+    color: white;
+    margin-left: 70px;
+    margin-right: 20px;
+}
+.information2 h5 {
+    border-bottom: 3px solid goldenrod;
+}
+
+.information2 h6{
+    margin-top: 5px;
+}
+.information2 h6:hover{
+    margin-left: 10px;
+    transition: 0.2s ease-in-out;
+    color: goldenrod;
+    cursor: pointer;
+}
+
+.footer-button{
+    margin-top: 10px;
+    
+}

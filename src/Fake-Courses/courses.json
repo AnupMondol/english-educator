@@ -1,0 +1,57 @@
+[
+    {
+        "id": 1,
+        "name": "IELTS",
+        "fullName": "International English Language Testing System",
+        "company": "British Council",
+        "Cost": 1564,
+        "detail": "IELTS in its full form stands for the International English Language Testing System – an English Language proficiency test developed and run by the British",
+        "image": "https://www.englishexplorer.com.sg/wp-content/uploads/2022/10/4-incredible-things-you-can-do-with-an-ielts-certificate.jpg"
+    },
+
+    {
+        "id": 2,
+        "name": "TOEFL",
+        "fullName": "Test of English as a Foreign Language",
+        "company": "IDP",
+        "Cost": 1274,
+        "detail": "The TOEFL tests prepare students for university study, immigration and more. Select the TOEFL test you'd like to learn more about or register.",
+        "image": "https://www.shutterstock.com/image-vector/toefl-word-concept-test-english-260nw-1565002888.jpg"
+    },
+    {
+        "id": 3,
+        "name": "GRE",
+        "fullName": "Graduate Record Examinations",
+        "company": "ETS",
+        "Cost": 1545,
+        "detail": "The Graduate Record Examination, or GRE, is an important step in the graduate school or business school application process. The GRE is a multiple-choice, computer-based, standardized exam that is often required for admission to graduate programs and graduate business programs (MBA) globally.",
+        "image": "https://leverageedu.com/blog/wp-content/uploads/2020/04/Top-universities-accepting-GRE-scores.jpg"
+    },
+    {
+        "id": 4,
+        "name": "English For Kids",
+        "fullName": "Teach Your Kids Better English",
+        "company": "English Educator",
+        "Cost": 589,
+        "detail": "English For Kids, or Kids English, is an important step in the graduate school or business school application process. The GRE is a multiple-choice, computer-based, standardized exam that is often required for admission to graduate programs and graduate business programs (MBA) globally.",
+        "image": "https://www.greatschools.org/gk/wp-content/uploads/2014/09/Effective-strategies-for-LD-kids.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Beginners English",
+        "fullName": "English For Beginners",
+        "company": "English Educator",
+        "Cost": 389,
+        "detail": "English For Beginners, or Beginners English, is an important step in the graduate school or business school application process. The GRE is a multiple-choice, computer-based, standardized exam that is often required for admission to graduate programs and graduate business programs (MBA) globally.",
+        "image": "https://www.collegiateparent.com/wp-content/uploads/2022/08/AdobeStock_429176281.jpg"
+    },
+    {
+        "id": 6,
+        "name": "English for Buisness",
+        "fullName": "Learn English For Buisness",
+        "company": "English Educator",
+        "Cost": 989,
+        "detail": "English For Buisness, or Buisness English, is an important step in the graduate school or business school application process. The GRE is a multiple-choice, computer-based, standardized exam that is often required for admission to graduate programs and graduate business programs (MBA) globally.",
+        "image": "https://www.primeum.com/hubfs/D%C3%A9finition-performance-commerciale.jpg"
+    }
+]
