@@ -18,7 +18,7 @@ import { Link } from 'react-router-dom';
 
 
 
-const NavBar = () => {
+const NavigationBar = () => {
 
 
     const [navbar, setNavbar] = useState(false);
@@ -62,4 +62,4 @@ const NavBar = () => {
     );
 };
 
-export default NavBar;
+export default NavigationBar;

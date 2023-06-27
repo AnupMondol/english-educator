@@ -2,7 +2,7 @@
 import { Route, Routes } from 'react-router-dom'
 import './App.css'
 import Home from './Components/Home/Home'
-import NavBar from './Components/Navbar/Navbar'
+import NavigationBar from './Components/Navbar/Navbar'
 import AboutUs from './Components/About-us/AboutUs'
 import Courses from './Components/Courses/Courses'
 import Teachers from './Components/Teachers/Teachers'
@@ -19,7 +19,7 @@ function App() {
   return (
     <>
       
-       <NavBar></NavBar>
+       <NavigationBar></NavigationBar>
        <Routes>
         <Route path='/' element={<Home/>}/>
         <Route path='/home' element={<Home/>}/>
